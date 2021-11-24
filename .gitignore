@@ -1,0 +1,7 @@
+*venv
+.idea
+.obsidian
+*__pycache__
+media/
+*.md
+kmeans_script/
